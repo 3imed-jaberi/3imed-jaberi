@@ -20,7 +20,7 @@ I create technical content (on [dev.to](https://dev.to/3imed_jaberi) and [YouTub
 # <img src="./assets/cat.gif" width="50" draggable="false"> About me
 
 - 🔭 &nbsp; I’m currently working on understanding myself...
-- 📝 &nbsp; I write stuff at dev.to/3imed-jaberi.
+- 📝 &nbsp; I write stuff at [dev.to/3imed_jaberi](https://dev.to/3imed_jaberi).
 - 📺 &nbsp; I do some technical/mentor videos at <a href="https://youtube.com/channel/UCXOf69z-gIR7rTRtGQUdCMQ?sub_confirmation=1">
 <img alt="Youtube Badge" src="https://img.shields.io/badge/-Youtube-e4405f?style=flat-square&logo=Youtube&logoColor=white" width="50px"></a>.
 <!-- - 🎙️ &nbsp; Host the [PRODCAST-NAME]() podcast. -->

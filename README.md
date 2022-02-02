@@ -5,7 +5,7 @@
 
 I'm a Young Software Engineer, Content Creator, Community Organizer, Self-Finder and Instructor from **Tunis, Tunisia** <img src="./assets/tunisia.png" width="15"/>. I'm passionate about sharing knowledge, creating technology to help and elevate people, documentation, software engineering, communities and F/OSS.
 
-<img align="right" alt="GIF" src="./assets/code.gif?raw=true" width="380" height="300" />
+<img align="right" alt="coding animated image --- gif" src="./assets/code.gif?raw=true" width="380" height="300" />
 
 I create technical content (on [dev.to](https://dev.to/3imed_jaberi) and [YouTube](https://youtube.com/channel/UCXOf69z-gIR7rTRtGQUdCMQ?sub_confirmation=1)), contribute, maintaine and make useful [open-source projects](https://github.com/3imed-jaberi), speak at meetups/conferences (locally 🇹🇳), present workshops and training sessions and build technical communities.
 
@@ -25,13 +25,13 @@ I create technical content (on [dev.to](https://dev.to/3imed_jaberi) and [YouTub
 <img alt="Youtube Badge" src="https://img.shields.io/badge/-Youtube-e4405f?style=flat-square&logo=Youtube&logoColor=white" width="50px"></a>.
 <!-- - 🎙️ &nbsp; Host the [PRODCAST-NAME]() podcast. -->
 - 🌱 &nbsp; I’m currently learning everything ...
-- 🎓 &nbsp; I’m currently a software engineering student [@TEK-UP University](https://tek-up.de/).
+<!-- - 👨🏻‍🎓 &nbsp; I graduated with a Bachelor's degree in Computer Science from [ISAMM](http://www.isa2m.rnu.tn/). -->
+- 🎓 &nbsp; I’m currently studying Engineer's degree in Computer Science majoring in Software Engineering [@TEK-UP University](https://tek-up.de/).
 - 👯 &nbsp; I’m looking to collaborate with on performance-related projects.
 <!-- - 🤔 &nbsp; I’m looking for help with ... -->
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/3imed-jaberi).
 - 🤝 &nbsp; Welcom for everyone who need help or collaborator.
 - ✅ &nbsp; 2021 Goals: prepare [Tunisian JS Community](https://js-community.tn/) to international stage by organized the [Summit v1.0](https://summit.js-community.tn/).
-
 - 🥅 &nbsp; 2022 Goals: Work more on the [Tunisian JS Community](https://js-community.tn/) to improve the quality of events.
 - 💬 &nbsp; Ask me about anything (within reason) [here](https://github.com/3imed-jaberi/ama)! I will be happy to help.
 - 📫 &nbsp; How to reach me: &nbsp;

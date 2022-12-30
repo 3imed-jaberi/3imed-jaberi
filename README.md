@@ -9,7 +9,11 @@ I'm a Young Software Engineer, Content Creator, Community Organizer, Self-Finder
 
 I create technical content (on [dev.to](https://dev.to/3imed_jaberi) and [YouTube](https://youtube.com/channel/UCXOf69z-gIR7rTRtGQUdCMQ?sub_confirmation=1)), contribute, maintaine and make useful [open-source projects](https://github.com/3imed-jaberi), speak at meetups/conferences (locally 🇹🇳), present workshops and training sessions and build technical communities.
 
-### <img src="./assets/website.png" width="18" draggable="false"> &nbsp;`WebSite` - [3imed-jaberi.com](https://www.3imed-jaberi.com/) &nbsp; | &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=3imed-jaberi.3imed-jaberi&style=flat-square&color=0088cc" width="85" draggable="false">
+<!-- ### <img src="./assets/website.png" width="18" draggable="false"> &nbsp;`WebSite` - [3imed-jaberi.com](https://www.3imed-jaberi.com/) &nbsp; - -->
+
+<br />
+
+### | &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=3imed-jaberi.3imed-jaberi&style=flat-square&color=0088cc" width="85" draggable="false">
 
 <br/>
 

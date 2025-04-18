@@ -1,23 +1,21 @@
 <h1 align="center"> Hi <img src="./assets/hi.gif" width="40px" />, I’m Imed.
 </h1>
 
-I’m a Young Software Engineer, Content Creator, Community Organizer, Self-Finder and Instructor from **Tunis, Tunisia** <img src="./assets/tunisia.png" width="15"/>. I’m passionate about sharing knowledge, creating technology to help and elevate people, documentation, software engineering, communities and F/OSS.
+I’m a **Senior Software Engineer**, Content Creator, Community Organizer, and Instructor based in **Tunis, Tunisia** <img src="./assets/tunisia.png" width="15px"/>. Driven by curiosity and purpose, I’m passionate about using technology to uplift people, simplify complexity through clear documentation, and cultivate inclusive, knowledge-sharing communities. Whether I’m writing code, creating content, or leading initiatives, my mission is to empower others and build meaningful, open-source-driven impact.
 
 <img align="right" alt="coding animated image --- gif" src="./assets/code.gif?raw=true" width="380px" height="300px" />
 
-I create technical content (on [dev.to](https://dev.to/3imed_jaberi) and [YouTube](https://youtube.com/channel/UCXOf69z-gIR7rTRtGQUdCMQ?sub_confirmation=1)), contribute, maintain and make useful [open-source projects](https://github.com/3imed-jaberi), speak at meetups/conferences (locally 🇹🇳), present workshops and training sessions and build technical communities.
+I create technical content on [Dev.to](https://dev.to/3imed_jaberi) and [YouTube](https://youtube.com/channel/UCXOf69z-gIR7rTRtGQUdCMQ?sub_confirmation=1), actively contribute to and maintain [open-source projects](https://github.com/3imed-jaberi), speak at meetups and conferences both locally 🇹🇳 and internationally 🌍, lead workshops and training sessions, and help build and grow technical communities.
 
-### <img src="./assets/website.png" width="18" draggable="false"> &nbsp;`WebSite` - [imed-jaberi.com](https://www.imed-jaberi.com/) &nbsp; 
-
-### | &nbsp; <img src="https://komarev.com/ghpvc/?username=3imed-jaberi&style=flat-square&color=0088cc" alt="Profile View Counter" width="85" draggable="false">
+### <img src="./assets/website.png" width="18px" draggable="false"> &nbsp;`WebSite` - [imed-jaberi.com](https://www.imed-jaberi.com/) &nbsp; | <img src="https://komarev.com/ghpvc/?username=3imed-jaberi&style=flat-square&color=0088cc" alt="Profile View Counter" width="85px" draggable="false">
 
 <br/>
 
-> My interest in the JavaScript ecosystem led me to launch [Tunisian JS Community](https://js-community.tn/), a community for Tunisian JS developers.
+> My passion for the JavaScript ecosystem led me to found the [Tunisian JS Community](https://js-community.tn/), a space for Tunisian JS developers to connect and grow.
 
 <br/>
 
-# <img src="./assets/cat.gif" width="50" draggable="false"> About me
+# <img src="./assets/cat.gif" width="50px" draggable="false"> About me
 
 - 🔭 &nbsp; I’m on a journey of continuous self-discovery and growth.
 - 🏛️ &nbsp; I lead the frontend web and mobile development teams at [Paack](https://paack.co/), driving high-quality UI/UX and technical innovation.
@@ -26,7 +24,7 @@ I create technical content (on [dev.to](https://dev.to/3imed_jaberi) and [YouTub
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/3imed-jaberi).
 - 📝 &nbsp; I write stuff at [dev.to/3imed_jaberi](https://dev.to/3imed_jaberi).
 - 📺 &nbsp; I do some technical/mentor videos at <a href="https://youtube.com/channel/UCXOf69z-gIR7rTRtGQUdCMQ?sub_confirmation=1">
-<img alt="Youtube Badge" src="https://img.shields.io/badge/-Youtube-e4405f?style=flat-square&logo=Youtube&logoColor=white" width="50px"></a>.
+  <img alt="Youtube Badge" src="https://img.shields.io/badge/-Youtube-e4405f?style=flat-square&logo=Youtube&logoColor=white" width="50px"></a>.
 - 🎙️ &nbsp; I’m available for public speaking, tech talks, and sharing my experiences at podcasts, conferences and meetups.
 - 👯 &nbsp; I’m looking to collaborate on performance-related projects and open-source initiatives.
 - 🤝 &nbsp; I’m open to mentoring, helping, and collaborating with anyone passionate about tech.
@@ -101,7 +99,9 @@ I create technical content (on [dev.to](https://dev.to/3imed_jaberi) and [YouTub
     <h5>Copyright © Imed Jaberi</h5>
 </div>
 
-<br/><br/>
+<br/>
+
+<!-- <img src="./assets/people.gif" width="60px"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> -->
 
 ---
 
